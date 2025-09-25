@@ -1,1 +1,1 @@
-gitea/gitea:1.20.5
+ubuntu:22.04
