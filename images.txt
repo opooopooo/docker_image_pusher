@@ -1,2 +1,1 @@
-vinlic/metaso-free-api:latest
-mysql
+gitea/gitea:1.20.5
