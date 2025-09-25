@@ -1,1 +1,2 @@
 vinlic/metaso-free-api:latest
+mysql
